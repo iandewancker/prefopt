@@ -1,2 +1,2 @@
-# PrefOpt : Toolbox for Preference Based Optimization
+# PrefOpt : Preference-Based Optimization
 Sequential Preference Based Optimization
